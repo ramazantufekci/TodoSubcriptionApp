@@ -1,0 +1,25 @@
+@page
+@model ToDoModel
+@{
+    ViewData["Title"] = "Todo List";
+
+}
+
+<h1>Todo List</h1>
+<form method="post">
+    <input type="text" name="Title" placeholder="New Task" required />
+    <button type="submit">Add</button>
+</form>
+
+@if (Model.ErrorMessage != null)
+{
+    <p style="color: red;">@Model.ErrorMessage</p>
+}
+<ul>
+    @foreach (var item in Model.ToDoItems)
+    {
+        <li>
+            <input type="checkbox" @(item.IsCompleted ? "checked" : "") onchange="location.href='?id=@item.Id&completed=@(item.IsCompleted)'">
+            @item.Title
+        </li>
+    }

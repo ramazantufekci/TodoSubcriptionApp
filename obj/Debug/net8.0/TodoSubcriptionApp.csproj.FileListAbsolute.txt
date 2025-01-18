@@ -1,0 +1,8 @@
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.csproj.AssemblyReference.cache
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.AssemblyInfoInputs.cache
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.AssemblyInfo.cs
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.csproj.CoreCompileInputs.cache
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.RazorAssemblyInfo.cache
+C:\Users\lcladmin\Documents\TodoSubcriptionApp\obj\Debug\net8.0\TodoSubcriptionApp.RazorAssemblyInfo.cs
