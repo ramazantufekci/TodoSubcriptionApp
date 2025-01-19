@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoSubcriptionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b506f9ffc5c8cc46a133aa7a995dfec9ab538683")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoSubcriptionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoSubcriptionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSubcriptionApp", "TodoSubcriptionApp.csproj", "{DEC11EBD-B525-FC5E-26FA-0C0DCDEDA187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC11EBD-B525-FC5E-26FA-0C0DCDEDA187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC11EBD-B525-FC5E-26FA-0C0DCDEDA187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC11EBD-B525-FC5E-26FA-0C0DCDEDA187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC11EBD-B525-FC5E-26FA-0C0DCDEDA187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B61D169-ED45-4D48-907F-E1B180753204}
+	EndGlobalSection
+EndGlobal
